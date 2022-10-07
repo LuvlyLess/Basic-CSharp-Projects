@@ -1,0 +1,8 @@
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Acme_Accounting_Assignment\Acme_Accounting_Assignment\bin\Debug\Acme_Accounting_Assignment.exe.config
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Acme_Accounting_Assignment\Acme_Accounting_Assignment\bin\Debug\Acme_Accounting_Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Acme_Accounting_Assignment\Acme_Accounting_Assignment\bin\Debug\Acme_Accounting_Assignment.pdb
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Acme_Accounting_Assignment\Acme_Accounting_Assignment\obj\Debug\Acme_Accounting_Assignment.csproj.AssemblyReference.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Acme_Accounting_Assignment\Acme_Accounting_Assignment\obj\Debug\Acme_Accounting_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Acme_Accounting_Assignment\Acme_Accounting_Assignment\obj\Debug\Acme_Accounting_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Acme_Accounting_Assignment\Acme_Accounting_Assignment\obj\Debug\Acme_Accounting_Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Acme_Accounting_Assignment\Acme_Accounting_Assignment\obj\Debug\Acme_Accounting_Assignment.pdb
