@@ -49,8 +49,8 @@ namespace Module7_Assignments_Math_AND_Compairson_Operators
             //                                      input from the user, divides it by 7, and prints the remainder
 
             Console.WriteLine("Please Pick a Number");
-            double userNumberDIVIDE = int.Parse(Console.ReadLine());
-            Console.WriteLine("Your Number Divided by 7 is " + userNumberDIVIDE % 7);
+            double userNumberModulus = int.Parse(Console.ReadLine());
+            Console.WriteLine("Your Number is " + userNumberModulus % 7);
             Console.ReadLine();
 
 
