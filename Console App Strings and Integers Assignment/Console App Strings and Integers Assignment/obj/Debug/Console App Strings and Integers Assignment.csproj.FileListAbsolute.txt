@@ -1,0 +1,8 @@
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Strings and Integers Assignment\Console App Strings and Integers Assignment\bin\Debug\Console App Strings and Integers Assignment.exe.config
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Strings and Integers Assignment\Console App Strings and Integers Assignment\bin\Debug\Console App Strings and Integers Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Strings and Integers Assignment\Console App Strings and Integers Assignment\bin\Debug\Console App Strings and Integers Assignment.pdb
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Strings and Integers Assignment\Console App Strings and Integers Assignment\obj\Debug\Console App Strings and Integers Assignment.csproj.AssemblyReference.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Strings and Integers Assignment\Console App Strings and Integers Assignment\obj\Debug\Console App Strings and Integers Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Strings and Integers Assignment\Console App Strings and Integers Assignment\obj\Debug\Console App Strings and Integers Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Strings and Integers Assignment\Console App Strings and Integers Assignment\obj\Debug\Console App Strings and Integers Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\Basic_C#_Programs\Console App Strings and Integers Assignment\Console App Strings and Integers Assignment\obj\Debug\Console App Strings and Integers Assignment.pdb
