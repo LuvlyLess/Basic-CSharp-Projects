@@ -1,0 +1,8 @@
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\TryCatch-Assignment\TryCatch-Assignment\bin\Debug\TryCatch-Assignment.exe.config
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\TryCatch-Assignment\TryCatch-Assignment\bin\Debug\TryCatch-Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\TryCatch-Assignment\TryCatch-Assignment\bin\Debug\TryCatch-Assignment.pdb
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\TryCatch-Assignment\TryCatch-Assignment\obj\Debug\TryCatch-Assignment.csproj.AssemblyReference.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\TryCatch-Assignment\TryCatch-Assignment\obj\Debug\TryCatch-Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\TryCatch-Assignment\TryCatch-Assignment\obj\Debug\TryCatch-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\TryCatch-Assignment\TryCatch-Assignment\obj\Debug\TryCatch-Assignment.exe
+C:\Users\Leslie\Desktop\My Portfolio WebSite\C#_Projects\TryCatch-Assignment\TryCatch-Assignment\obj\Debug\TryCatch-Assignment.pdb
